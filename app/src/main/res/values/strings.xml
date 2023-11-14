@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyAppEye7</string>
+    <string name="freddy">Freddy Fazbear</string>
+    <string name="freddykid">Gabriel</string>
+    <string name="bonnie">Bonnie</string>
+    <string name="bonniekid">Jeremy</string>
+    <string name="chica">Chica</string>
+    <string name="chicakid">Susie</string>
+    <string name="foxy">Foxy</string>
+    <string name="foxykid">Fritz</string>
+</resources>
